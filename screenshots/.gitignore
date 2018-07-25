@@ -1,0 +1,5 @@
+# Temporary file to establish git history of project structure
+
+*
+# Except this file
+!.gitignore
